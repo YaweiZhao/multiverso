@@ -193,6 +193,7 @@
     <ClInclude Include="..\include\multiverso\table\sparse_matrix_table.h" />
     <ClInclude Include="..\include\multiverso\table_interface.h" />
     <ClInclude Include="..\include\multiverso\updater\adagrad_updater.h" />
+    <ClInclude Include="..\include\multiverso\updater\average_updater.h" />
     <ClInclude Include="..\include\multiverso\updater\sgd_updater.h" />
     <ClInclude Include="..\include\multiverso\updater\momentum_updater.h" />
     <ClInclude Include="..\include\multiverso\updater\updater.h" />

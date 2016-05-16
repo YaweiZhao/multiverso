@@ -109,6 +109,9 @@
     <ClInclude Include="..\include\multiverso\table_interface.h">
       <Filter>system</Filter>
     </ClInclude>
+    <ClInclude Include="..\include\multiverso\updater\average_updater.h">
+      <Filter>updater</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="system">
